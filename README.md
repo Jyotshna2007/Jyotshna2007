@@ -33,7 +33,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode,linux,fastapi&theme=dark" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle" width="48" height="48"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ---
