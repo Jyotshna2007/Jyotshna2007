@@ -1,18 +1,10 @@
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:00C9FF,100:FF4ECD&text=Hi%20👋%20I'm%20Jyotshna%20Kondepudi&fontSize=42&fontColor=ffffff&animation=fade&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Competitive%20Programmer&descAlignY=60"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi+%F0%9F%91%8B+I'm+Jyotshna+Kondepudi;Welcome+To+My+GitHub+Profile+%F0%9F%9A%80" />
-
-<h3>
-🌈 <b>Full Stack Developer</b> • 💻 <b>Competitive Programmer</b> • 🤖 <b>AI Enthusiast</b>
-</h3>
-
-<img src="https://komarev.com/ghpvc/?username=Jyotshna2007&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/Jyotshna2007?label=Followers&style=for-the-badge&color=blue" />
-
-<img src="https://img.shields.io/github/stars/Jyotshna2007?affiliations=OWNER&style=for-the-badge&color=yellow" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub+Profile+🚀;1000%2B+DSA+Problems+Solved;Building+with+MERN+Stack;Always+Learning+New+Technologies"/>
+</p>
 
 ---
 
