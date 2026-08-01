@@ -42,61 +42,62 @@
 ---
 ## 💻 Competitive Programming Profiles
 
-<p align="center">
+<table align="center">
+<tr align="center">
 
-<a href="https://leetcode.com/u/JyoAsACoder/">
+<td>
+<a href="https://leetcode.com/u/JyoAsACoder/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55"/>
 </a>
+<br><b>LeetCode</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="70"></td>
 
-<a href="https://codeforces.com/profile/JyoAsCoder">
+<td>
+<a href="https://codeforces.com/profile/JyoAsCoder" target="_blank">
 <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="55"/>
 </a>
+<br><b>Codeforces</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="70"></td>
 
-<a href="https://www.codechef.com/users/zeal_pet_65">
+<td>
+<a href="https://www.codechef.com/users/zeal_pet_65" target="_blank">
 <img src="https://cdn.simpleicons.org/codechef/5B4638" width="55"/>
 </a>
+<br><b>CodeChef</b>
+</td>
 
-</p>
+</tr>
 
-<p align="center">
+<tr><td height="35"></td></tr>
 
-⭐ <b>LeetCode</b> ⭐
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<tr align="center">
 
-⭐ <b>Codeforces</b> ⭐
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-⭐ <b>CodeChef</b> ⭐
-
-</p>
-
-<br>
-
-<p align="center">
-
-<a href="https://www.geeksforgeeks.org/profile/kondepudigv2q">
+<td>
+<a href="https://www.geeksforgeeks.org/profile/kondepudigv2q" target="_blank">
 <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="55"/>
 </a>
+<br><b>GeeksforGeeks</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td></td>
 
-<a href="https://www.hackerrank.com/profile/kondepudijyotsh1">
+<td></td>
+
+<td></td>
+
+<td>
+<a href="https://www.hackerrank.com/profile/kondepudijyotsh1" target="_blank">
 <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="55"/>
 </a>
+<br><b>HackerRank</b>
+</td>
 
-</p>
+</tr>
 
-<p align="center">
-
-⭐ <b>GeeksforGeeks</b> ⭐
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-⭐ <b>HackerRank</b> ⭐
-
-</p>
+</table>
 
 ---
