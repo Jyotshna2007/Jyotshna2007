@@ -25,7 +25,7 @@
 
 💻 **DSA:** Solved **1000+ Problems** across coding platforms
 
-🌐 **Interests:** Full Stack Development, Competitive Programming & AI
+ 🌐 Interests: Full Stack Development, Competitive Programming & Problem Solving
 
 🎯 **Career Goal:** Aspiring Software Development Engineer (SDE)
 
