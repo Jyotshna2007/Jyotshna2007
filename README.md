@@ -15,24 +15,13 @@
 ---
 ## 👋 About Me
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+🎓 **B.Tech in Computer Science Engineering (2024–2028)** at **Aditya University**
 
-🎓 **B.Tech in Computer Science Engineering (2024–2028)**  
-🏫 **Aditya University**
+🚀 Passionate about **Full Stack Development**, **Backend Development**, and **Competitive Programming**.
 
-💻 **Solved 1000+ DSA Problems** across coding platforms
+🌱 Currently learning  **FastAPI**, and building real-world projects.
 
-🌐 **Interests**
-- Full Stack Development
-- Backend Development
-- Competitive Programming
-
-🚀 **Currently Learning**
-- Advanced MERN Stack
-- FastAPI
-
-🎯 **Aspiring Software Development Engineer (SDE)**
-
+🎯 Aspiring **Software Development Engineer (SDE)** who enjoys solving challenging problems and building scalable applications.
 <br clear="right"/>
 
 ---
