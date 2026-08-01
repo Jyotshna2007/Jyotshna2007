@@ -40,61 +40,70 @@
 </p>
 
 ---
+
 ## 💻 Competitive Programming Profiles
 
-<table align="center">
-<tr align="center">
+<div align="center">
 
-<td>
 <a href="https://leetcode.com/u/JyoAsACoder/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55"/>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55" alt="LeetCode"/>
 </a>
-<br><b>LeetCode</b>
-</td>
 
-<td width="70"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td>
 <a href="https://codeforces.com/profile/JyoAsCoder" target="_blank">
-<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="55"/>
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="55" alt="Codeforces"/>
 </a>
-<br><b>Codeforces</b>
-</td>
 
-<td width="70"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td>
 <a href="https://www.codechef.com/users/zeal_pet_65" target="_blank">
-<img src="https://cdn.simpleicons.org/codechef/5B4638" width="55"/>
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="55" alt="CodeChef"/>
 </a>
-<br><b>CodeChef</b>
-</td>
 
-</tr>
+<br>
 
-<tr><td height="35"></td></tr>
+<b>LeetCode</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Codeforces</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>CodeChef</b>
 
-<tr align="center">
+<br>
 
-<td>
+<sub>JyoAsACoder</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>JyoAsCoder</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>zeal_pet_65</sub>
+
+<br><br><br>
+
 <a href="https://www.geeksforgeeks.org/profile/kondepudigv2q" target="_blank">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="55"/>
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="55" alt="GeeksforGeeks"/>
 </a>
-<br><b>GeeksforGeeks</b>
-</td>
 
-<td></td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td></td>
-
-<td></td>
-
-<td>
 <a href="https://www.hackerrank.com/profile/kondepudijyotsh1" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="55"/>
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="55" alt="HackerRank"/>
 </a>
-<br><b>HackerRank</b>
-</td>
+
+<br>
+
+<b>GeeksforGeeks</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>HackerRank</b>
+
+<br>
+
+<sub>kondepudigv2q</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>kondepudijyotsh1</sub>
+
+</div>
+
+---
 
 </tr>
 
