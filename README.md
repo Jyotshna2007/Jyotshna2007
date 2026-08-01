@@ -44,66 +44,61 @@
 
 <div align="center">
 
-<!-- First Row -->
-
 <a href="https://leetcode.com/u/JyoAsACoder/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"/>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"><br>
+  <b>LeetCode</b><br>
+  <sub>JyoAsACoder</sub>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
 
 <a href="https://codeforces.com/profile/JyoAsCoder">
-  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="60"/>
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="60">
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.codechef.com/users/zeal_pet_65">
-  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="60"/>
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="60">
 </a>
 
 <br>
 
-<b>LeetCode</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Codeforces</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>CodeChef</b>
 
 <br>
 
-<sub>JyoAsACoder</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <sub>JyoAsCoder</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <sub>zeal_pet_65</sub>
 
-<br><br><br>
-
-<!-- Second Row -->
+<br><br>
 
 <a href="https://www.geeksforgeeks.org/profile/kondepudigv2q">
-  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="60"/>
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="60">
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/profile/kondepudijyotsh1">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="60"/>
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="60">
 </a>
 
 <br>
 
 <b>GeeksforGeeks</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>HackerRank</b>
 
 <br>
 
 <sub>kondepudigv2q</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <sub>kondepudijyotsh1</sub>
 
+</div>
 </div>
 
 ---
