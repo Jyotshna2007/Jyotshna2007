@@ -42,48 +42,41 @@
 ---
 <div align="center">
 
-<table>
-<tr>
-<td colspan="2" align="center">
-<a href="https://leetcode.com/u/JyoAsACoder/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"/><br>
-  <b>LeetCode</b><br>
-  <sub>JyoAsACoder</sub>
-</a>
-</td>
-</tr>
-<tr>
-<td align="right">
-<a href="https://codeforces.com/profile/JyoAsCoder">
-  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="60"/><br>
-  <b>Codeforces</b><br>
-  <sub>JyoAsCoder</sub>
-</a>
-</td>
-<td align="left">
-<a href="https://www.codechef.com/users/zeal_pet_65">
-  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="60"/><br>
-  <b>CodeChef</b><br>
-  <sub>zeal_pet_65</sub>
-</a>
-</td>
-</tr>
-<tr>
-<td align="right">
-<a href="https://www.geeksforgeeks.org/profile/kondepudigv2q">
-  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="60"/><br>
-  <b>GeeksforGeeks</b><br>
-  <sub>kondepudigv2q</sub>
-</a>
-</td>
-<td align="left">
-<a href="https://www.hackerrank.com/profile/kondepudijyotsh1">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="60"/><br>
-  <b>HackerRank</b><br>
-  <sub>kondepudijyotsh1</sub>
-</a>
-</td>
-</tr>
-</table>
+<svg width="420" height="360" viewBox="0 0 420 360" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Top - LeetCode -->
+  <a href="https://leetcode.com/u/JyoAsACoder/">
+    <image href="https://cdn.simpleicons.org/leetcode/FFA116" x="180" y="10" width="60" height="60"/>
+    <text x="210" y="90" font-size="13" font-weight="bold" text-anchor="middle" fill="currentColor">LeetCode</text>
+    <text x="210" y="106" font-size="11" text-anchor="middle" fill="gray">JyoAsACoder</text>
+  </a>
+
+  <!-- Middle left - Codeforces -->
+  <a href="https://codeforces.com/profile/JyoAsCoder">
+    <image href="https://cdn.simpleicons.org/codeforces/1F8ACB" x="20" y="130" width="60" height="60"/>
+    <text x="50" y="210" font-size="13" font-weight="bold" text-anchor="middle" fill="currentColor">Codeforces</text>
+    <text x="50" y="226" font-size="11" text-anchor="middle" fill="gray">JyoAsCoder</text>
+  </a>
+
+  <!-- Middle right - CodeChef -->
+  <a href="https://www.codechef.com/users/zeal_pet_65">
+    <image href="https://cdn.simpleicons.org/codechef/5B4638" x="340" y="130" width="60" height="60"/>
+    <text x="370" y="210" font-size="13" font-weight="bold" text-anchor="middle" fill="currentColor">CodeChef</text>
+    <text x="370" y="226" font-size="11" text-anchor="middle" fill="gray">zeal_pet_65</text>
+  </a>
+
+  <!-- Bottom left - GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/profile/kondepudigv2q">
+    <image href="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" x="60" y="270" width="60" height="60"/>
+    <text x="90" y="350" font-size="13" font-weight="bold" text-anchor="middle" fill="currentColor">GeeksforGeeks</text>
+  </a>
+
+  <!-- Bottom right - HackerRank -->
+  <a href="https://www.hackerrank.com/profile/kondepudijyotsh1">
+    <image href="https://cdn.simpleicons.org/hackerrank/00EA64" x="300" y="270" width="60" height="60"/>
+    <text x="330" y="350" font-size="13" font-weight="bold" text-anchor="middle" fill="currentColor">HackerRank</text>
+  </a>
+
+</svg>
 
 </div>
