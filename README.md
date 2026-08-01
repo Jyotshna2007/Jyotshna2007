@@ -34,7 +34,6 @@
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,github,vscode,linux,fastapi&theme=dark"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48"/>
 
 </p>
 
