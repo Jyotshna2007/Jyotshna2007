@@ -40,3 +40,63 @@
 </p>
 
 ---
+## 💻 Competitive Programming Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/JyoAsACoder/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://codeforces.com/profile/JyoAsCoder">
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.codechef.com/users/zeal_pet_65">
+<img src="https://cdn.simpleicons.org/codechef/5B4638" width="55"/>
+</a>
+
+</p>
+
+<p align="center">
+
+⭐ <b>LeetCode</b> ⭐
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+⭐ <b>Codeforces</b> ⭐
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+⭐ <b>CodeChef</b> ⭐
+
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://www.geeksforgeeks.org/profile/kondepudigv2q">
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/profile/kondepudijyotsh1">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="55"/>
+</a>
+
+</p>
+
+<p align="center">
+
+⭐ <b>GeeksforGeeks</b> ⭐
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+⭐ <b>HackerRank</b> ⭐
+
+</p>
+
+---
