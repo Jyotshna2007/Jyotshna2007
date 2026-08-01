@@ -25,4 +25,15 @@
 
 🎯 Aspiring **Software Development Engineer (SDE)** focused on building scalable software
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,fastapi,oracle&perline=9"/>,
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode,linux,fastapi&theme=dark" />
+  <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle" width="48" height="48"/>
+</p>
+
+---
