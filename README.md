@@ -29,11 +29,11 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react&theme=dark"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,github,vscode,linux,fastapi&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode,linux,fastapi&theme=dark"/>
 
 </p>
 
