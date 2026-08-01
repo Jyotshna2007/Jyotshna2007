@@ -34,29 +34,30 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,linux,vscode,postman,fastapi&perline=9"/>
 
 </p>
-
-## 🌐 Coding Profiles
+<h2 align="center">💻 Competitive Programming Profiles</h2>
 
 <p align="center">
+  <a href="https://leetcode.com/u/JyoAsACoder/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-1000%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/zeal_pet_65" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programmer-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://leetcode.com/u/JyoAsACoder/">
-<img src="https://img.shields.io/badge/🟠%20LeetCode-Visit%20Profile-orange?style=for-the-badge"/>
-</a>
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/kondepudigv2q" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/kondepudijyotsh1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://www.codechef.com/users/zeal_pet_65">
-<img src="https://img.shields.io/badge/🟤%20CodeChef-Visit%20Profile-brown?style=for-the-badge"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/kondepudigv2q">
-<img src="https://img.shields.io/badge/🟢%20GeeksforGeeks-Visit%20Profile-success?style=for-the-badge"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/kondepudijyotsh1">
-<img src="https://img.shields.io/badge/🟩%20HackerRank-Visit%20Profile-brightgreen?style=for-the-badge"/>
-</a>
-
-<a href="https://codeforces.com/profile/JyoAsCoder">
-<img src="https://img.shields.io/badge/🔵%20Codeforces-Visit%20Profile-blue?style=for-the-badge"/>
-</a>
-
+<p align="center">
+  <a href="https://codeforces.com/profile/JyoAsCoder" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Contest%20Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 </p>
