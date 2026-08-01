@@ -41,48 +41,50 @@
 
 ---
 <div align="center">
-
-<table border="0" cellspacing="20" cellpadding="0">
+<table border="0" cellspacing="15" cellpadding="0">
 <tr>
-<td></td>
-<td align="center">
+<td colspan="2" align="center">
 <a href="https://leetcode.com/u/JyoAsACoder/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"/><br>
-<b>LeetCode</b><br>
-<sub>JyoAsACoder</sub>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"/><br>
+  <b>LeetCode</b><br>
+  <sub>JyoAsACoder</sub>
 </a>
 </td>
-<td></td>
 </tr>
 <tr>
-<td align="center">
+<td align="right">
 <a href="https://codeforces.com/profile/JyoAsCoder">
-<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="60"/><br>
-<b>Codeforces</b><br>
-<sub>JyoAsCoder</sub>
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="60"/><br>
+  <b>Codeforces</b><br>
+  <sub>JyoAsCoder</sub>
 </a>
 </td>
-<td></td>
-<td align="center">
+<td align="left">
 <a href="https://www.codechef.com/users/zeal_pet_65">
-<img src="https://cdn.simpleicons.org/codechef/5B4638" width="60"/><br>
-<b>CodeChef</b><br>
-<sub>zeal_pet_65</sub>
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="60"/><br>
+  <b>CodeChef</b><br>
+  <sub>zeal_pet_65</sub>
 </a>
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="right">
 <a href="https://www.geeksforgeeks.org/profile/kondepudigv2q">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="60"/><br>
-<b>GeeksforGeeks</b><br>
-<sub>kondepudigv2q</sub>
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="60"/><br>
+  <b>GeeksforGeeks</b><br>
+  <sub>kondepudigv2q</sub>
 </a>
 </td>
-<td></td>
-<td align="center">
+<td align="left">
 <a href="https://www.hackerrank.com/profile/kondepudijyotsh1">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="60"/><br>
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="60"/><br>
+  <b>HackerRank</b><br>
+  <sub>kondepudijyotsh1</sub>
+</a>
+</td>
+</tr>
+</table>
+</div>
 <b>HackerRank</b><br>
 <sub>kondepudijyotsh1</sub>
 </a>
