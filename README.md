@@ -16,10 +16,17 @@
 ## 👋 About Me
 
 🎓 **B.Tech in Computer Science Engineering (2024–2028)** at **Aditya University**
+
 💻 Solved **1000+ DSA Problems** across multiple coding platforms
+
 🌟 Strong foundation in **Data Structures & Algorithms, OOP, DBMS, and Operating Systems**
+
 🌐 Passionate about **Full Stack Development, Backend Development, and Competitive Programming**
+
 🚀 Currently building **real-world MERN Stack applications** and exploring **FastAPI**
+
 📚 Continuously learning modern technologies and improving problem-solving skills
+
 🤝 Open to collaborating on **Open Source** and **Full Stack** projects
+
 🎯 Aspiring **Software Development Engineer (SDE)** focused on building scalable software
