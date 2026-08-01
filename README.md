@@ -15,18 +15,24 @@
 </div>
 
 ---
-## 🚀 About Me
 
-✨ 🎓 **B.Tech Computer Science Engineering Student**
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-💻 **Solved 1000+ DSA Problems**
+## 👩‍💻 About Me
 
-🤖 **Passionate about AI & Backend Development**
+🎓 **B.Tech in Computer Science Engineering (2024–2028)** at **Aditya University**
 
-🏆 **Competitive Programmer**
+💻 Solved **1000+ DSA Problems** across multiple coding platforms
 
-🎯 **Targeting SDE & AI Internships**
+🌐 Passionate about **Full Stack Development** and **Competitive Programming**
 
+🚀 Currently exploring **Advanced MERN Stack**, **Backend Development**, and **AI**
+
+🌱 Always learning new technologies and building real-world projects
+
+🎯 **Aspiring Software Development Engineer (SDE)**
+
+<br clear="right"/>
 ## 🔥 Tech Stack
 
 <p align="center">
