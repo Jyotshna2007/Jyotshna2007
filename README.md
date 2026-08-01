@@ -43,70 +43,54 @@
 
 ## 💻 Competitive Programming Profiles
 
-<div align="center">
-
-<a href="https://leetcode.com/u/JyoAsACoder/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55" alt="LeetCode"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://codeforces.com/profile/JyoAsCoder" target="_blank">
-  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="55" alt="Codeforces"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.codechef.com/users/zeal_pet_65" target="_blank">
-  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="55" alt="CodeChef"/>
-</a>
-
-<br>
-
-<b>LeetCode</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Codeforces</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>CodeChef</b>
-
-<br>
-
+<table align="center">
+<tr align="center">
+<td width="180">
+<a href="https://leetcode.com/u/JyoAsACoder/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55"/><br>
+<b>LeetCode</b><br>
 <sub>JyoAsACoder</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+</td>
+
+<td width="180">
+<a href="https://codeforces.com/profile/JyoAsCoder">
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="55"/><br>
+<b>Codeforces</b><br>
 <sub>JyoAsCoder</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+</td>
+
+<td width="180">
+<a href="https://www.codechef.com/users/zeal_pet_65">
+<img src="https://cdn.simpleicons.org/codechef/5B4638" width="55"/><br>
+<b>CodeChef</b><br>
 <sub>zeal_pet_65</sub>
-
-<br><br><br>
-
-<a href="https://www.geeksforgeeks.org/profile/kondepudigv2q" target="_blank">
-  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="55" alt="GeeksforGeeks"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/profile/kondepudijyotsh1" target="_blank">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="55" alt="HackerRank"/>
-</a>
-
-<br>
-
-<b>GeeksforGeeks</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>HackerRank</b>
-
-<br>
-
-<sub>kondepudigv2q</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<sub>kondepudijyotsh1</sub>
-
-</div>
-
----
-
+</td>
 </tr>
 
+<tr><td colspan="3" height="30"></td></tr>
+
+<tr align="center">
+<td width="180">
+<a href="https://www.geeksforgeeks.org/profile/kondepudigv2q">
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="55"/><br>
+<b>GeeksforGeeks</b><br>
+<sub>kondepudigv2q</sub>
+</a>
+</td>
+
+<td></td>
+
+<td width="180">
+<a href="https://www.hackerrank.com/profile/kondepudijyotsh1">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="55"/><br>
+<b>HackerRank</b><br>
+<sub>kondepudijyotsh1</sub>
+</a>
+</td>
+</tr>
 </table>
 
 ---
