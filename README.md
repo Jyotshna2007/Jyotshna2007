@@ -25,37 +25,24 @@
 
 🎯 Aspiring **Software Development Engineer (SDE)** focused on building scalable software
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
-### 👨‍💻 Programming Languages
+<p align="center">
 
-<p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
-</p>
+&nbsp;&nbsp;&nbsp;
 
-### 🌐 Frontend Development
-
-<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+&nbsp;&nbsp;&nbsp;
 
-### ⚙️ Backend Development
-
-<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
+&nbsp;&nbsp;&nbsp;
 
-### 🗄️ Databases
-
-<p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+&nbsp;&nbsp;&nbsp;
 
-### 🛠️ Tools & Technologies
-
-<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+
 </p>
 
 ---
