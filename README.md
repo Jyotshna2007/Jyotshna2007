@@ -13,32 +13,26 @@
 </div>
 
 ---
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+## 👋 About Me
 
-<table>
-<tr>
-<td width="65%">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-🎓 **Degree:** B.Tech in Computer Science Engineering (2024–2028)
+🎓 **B.Tech in Computer Science Engineering (2024–2028)**  
+🏫 **Aditya University**
 
-🏫 **University:** Aditya University
+💻 **Solved 1000+ DSA Problems** across coding platforms
 
-💻 **DSA:** Solved **1000+ Problems** across coding platforms
+🌐 **Interests**
+- Full Stack Development
+- Backend Development
+- Competitive Programming
 
- 🌐 Interests: Full Stack Development, Competitive Programming & Problem Solving
+🚀 **Currently Learning**
+- Advanced MERN Stack
+- FastAPI
 
-🎯 **Career Goal:** Aspiring Software Development Engineer (SDE)
+🎯 **Aspiring Software Development Engineer (SDE)**
 
-🌱 **Fun Fact:** I enjoy turning ideas into real-world applications.
-
-</td>
-
-<td align="center" width="35%">
-
-<img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="230"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
