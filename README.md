@@ -16,19 +16,18 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Girl Coder" width="340" src="https://raw.githubusercontent.com/rahul-jha98/README_GIFS/main/programming.gif">
 
 ## 👩‍💻 About Me
 
-🎓 **B.Tech in Computer Science Engineering (2024–2028)** at **Aditya University**
+🎓 **B.Tech in Computer Science Engineering (2024–2028)**  
+📍 **Aditya University**
 
 💻 Solved **1000+ DSA Problems** across multiple coding platforms
 
-🌐 Passionate about **Full Stack Development** and **Competitive Programming**
+🌐 Passionate about **Full Stack Development**, **Competitive Programming**, and **Artificial Intelligence**
 
-🚀 Currently exploring **Advanced MERN Stack**, **Backend Development**, and **AI**
-
-🌱 Always learning new technologies and building real-world projects
+🌱 I enjoy building scalable web applications and continuously improving my problem-solving skills.
 
 🎯 **Aspiring Software Development Engineer (SDE)**
 
