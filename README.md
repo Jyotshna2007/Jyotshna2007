@@ -17,11 +17,18 @@
 
 🎓 **B.Tech in Computer Science Engineering (2024–2028)** at **Aditya University**
 
-🚀 Passionate about **Full Stack Development**, **Backend Development**, and **Competitive Programming**.
+💻 Solved **1000+ DSA Problems** across multiple coding platforms
 
-🌱 Currently learning  **FastAPI**, and building real-world projects.
+🌟 Strong foundation in **Data Structures & Algorithms, OOP, DBMS, and Operating Systems**
 
-🎯 Aspiring **Software Development Engineer (SDE)** who enjoys solving challenging problems and building scalable applications.
-<br clear="right"/>
+🌐 Passionate about **Full Stack Development, Backend Development, and Competitive Programming**
 
----
+🚀 Currently building **real-world MERN Stack applications** and exploring **FastAPI**
+
+🧩 Enjoy solving algorithmic challenges and writing clean, optimized code
+
+📚 Continuously learning modern technologies and improving problem-solving skills
+
+🤝 Open to collaborating on **Open Source** and **Full Stack** projects
+
+🎯 Aspiring **Software Development Engineer (SDE)** focused on building scalable software
