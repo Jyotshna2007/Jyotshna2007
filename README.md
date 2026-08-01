@@ -42,46 +42,46 @@
 ---
 ## 💻 Coding Profiles
 
-<div align="center">
+<p align="center">
+  <a href="https://leetcode.com/u/JyoAsACoder/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"><br>
+    <b>LeetCode</b><br>
+    <sub>JyoAsACoder</sub>
+  </a>
 
-<a href="https://leetcode.com/u/JyoAsACoder/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"/><br>
-<b>LeetCode</b><br>
-<sub>JyoAsACoder</sub>
-</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/JyoAsCoder">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="60"><br>
+    <b>Codeforces</b><br>
+    <sub>JyoAsCoder</sub>
+  </a>
 
-<a href="https://codeforces.com/profile/JyoAsCoder">
-<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="60"/><br>
-<b>Codeforces</b><br>
-<sub>JyoAsCoder</sub>
-</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/zeal_pet_65">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="60"><br>
+    <b>CodeChef</b><br>
+    <sub>zeal_pet_65</sub>
+  </a>
+</p>
 
-<a href="https://www.codechef.com/users/zeal_pet_65">
-<img src="https://cdn.simpleicons.org/codechef/5B4638" width="60"/><br>
-<b>CodeChef</b><br>
-<sub>zeal_pet_65</sub>
-</a>
+<br>
 
-<br><br><br>
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/kondepudigv2q">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="60"><br>
+    <b>GeeksforGeeks</b><br>
+    <sub>kondepudigv2q</sub>
+  </a>
 
-<a href="https://www.geeksforgeeks.org/profile/kondepudigv2q">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="60"/><br>
-<b>GeeksforGeeks</b><br>
-<sub>kondepudigv2q</sub>
-</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/profile/kondepudijyotsh1">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="60"/><br>
-<b>HackerRank</b><br>
-<sub>kondepudijyotsh1</sub>
-</a>
-
-</div>
+  <a href="https://www.hackerrank.com/profile/kondepudijyotsh1">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="60"><br>
+    <b>HackerRank</b><br>
+    <sub>kondepudijyotsh1</sub>
+  </a>
+</p>
 
 ---
