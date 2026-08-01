@@ -90,3 +90,16 @@
 </tr>
 </table>
 </div> 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jyotshna2007&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotshna2007&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotshna2007&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
+
+---
