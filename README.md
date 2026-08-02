@@ -23,7 +23,7 @@
 <a href="mailto:kondepudijyotshna@gmail.com">
   <img src="https://img.shields.io/badge/📧%20Gmail-EA4335?style=flat-square"/>
 </a>
-
+</div>
 </p>
 
 
