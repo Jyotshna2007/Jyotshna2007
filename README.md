@@ -31,22 +31,14 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **Degree:** B.Tech in **Computer Science & Engineering** | **Aditya University** *(2024–2028)*
-
-- 📈 **Academic Standing:** Maintaining a **9.22 CGPA** with consistent academic excellence.
-
-- 💼 **Experience:** **Full Stack Developer Intern** at **Technical Hub Private Limited** *(May 2026 – June 2026)*
-
-- 💻 **Development Focus:** Building scalable Full Stack applications and solving real-world problems through clean, efficient code.
-
-- 🚀 **Technical Interests:** Full Stack Development • Competitive Programming • System Design • Cloud Computing • Artificial Intelligence
-
-- 🌱 **Currently Learning:** Advanced Backend Development • Cloud Deployment • AI-powered Applications
-
-- 🤝 **Open to Collaboration:** Full Stack Projects • Open Source • Hackathons
-
-- 🎯 **Career Goal:** Aspiring **Software Development Engineer (SDE)** focused on building impactful software.
-## 🛠️ Tech Stack
+🎓 <b>Degree:</b> B.Tech in <b>Computer Science & Engineering</b> | <b>Aditya University</b> <i>(2024–2028)</i><br>
+📈 <b>Academic Standing:</b> Maintaining a <b>9.22 CGPA</b> with consistent academic excellence.<br>
+💼 <b>Experience:</b> Full Stack Developer Intern at <b>Technical Hub Private Limited</b> <i>(May 2026 – June 2026)</i><br>
+💻 <b>Development Focus:</b> Building scalable Full Stack applications and solving real-world problems through clean, efficient code.<br>
+🚀 <b>Technical Interests:</b> Full Stack Development • Competitive Programming • System Design • Cloud Computing • Artificial Intelligence<br>
+🌱 <b>Currently Learning:</b> Advanced Backend Development • Cloud Deployment • AI-powered Applications<br>
+🤝 <b>Open to Collaboration:</b> Full Stack Projects • Open Source • Hackathons<br>
+🎯 <b>Career Goal:</b> Aspiring <b>Software Development Engineer (SDE)</b> focused on building impactful software.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react&theme=dark" />
