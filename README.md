@@ -142,7 +142,6 @@
 - 🔗 Introduction to Model Context Protocol (MCP)
 
 ---
----
 
 ## 📊 GitHub Stats & Metrics
 
