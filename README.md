@@ -35,14 +35,24 @@
 
 ## 👩‍💻 About Me
 
-🎓 <b>Degree:</b> B.Tech in <b>Computer Science & Engineering</b> | <b>Aditya University</b> <i>(2024–2028)</i><br>
-📈 <b>Academic Standing:</b> Maintaining a <b>9.22 CGPA</b> with consistent academic excellence.<br>
-💼 <b>Experience:</b> Full Stack Developer Intern at <b>Technical Hub Private Limited</b> <i>(May 2026 – June 2026)</i><br>
-💻 <b>Development Focus:</b> Building scalable Full Stack applications and solving real-world problems through clean, efficient code.<br>
-🚀 <b>Technical Interests:</b> Full Stack Development • Competitive Programming • System Design • Cloud Computing • Artificial Intelligence<br>
-🌱 <b>Currently Learning:</b> Advanced Backend Development • Cloud Deployment • AI-powered Applications<br>
-🤝 <b>Open to Collaboration:</b> Full Stack Projects • Open Source • Hackathons<br>
-🎯 <b>Career Goal:</b> Aspiring <b>Software Development Engineer (SDE)</b> focused on building impactful software.
+🎓 **B.Tech in Computer Science & Engineering**  
+📍 **Aditya University (2024–2028)**
+💼  Full Stack Development Intern @ Technical Hub Private Limited
+🚀  Driven by a passion for crafting scalable Full Stack applications, integrating AI into real-world solutions, and transforming complex challenges into elegant, efficient software.
+
+🌱 Currently exploring
+
+- Advanced Backend Development
+- System Design
+- Cloud Technologies
+- AI Integrations
+- 
+👯 Open to collaborate on
+
+- Full Stack Projects
+- AI Applications
+- Open Source
+- Hackathons
 
 
 ---
