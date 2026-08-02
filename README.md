@@ -39,6 +39,7 @@
 🌱 <b>Currently Learning:</b> Advanced Backend Development • Cloud Deployment • AI-powered Applications<br>
 🤝 <b>Open to Collaboration:</b> Full Stack Projects • Open Source • Hackathons<br>
 🎯 <b>Career Goal:</b> Aspiring <b>Software Development Engineer (SDE)</b> focused on building impactful software.
+##Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react&theme=dark" />
