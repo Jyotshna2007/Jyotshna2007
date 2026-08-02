@@ -47,18 +47,24 @@
 
 ---
 
-## 🚀 Tech Stack
+# 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,bootstrap,react,nextjs,nodejs,express,fastapi,mongodb,mysql,git,github,linux,vscode,vercel&perline=7"/>
+
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode,linux,fastapi&theme=dark" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT_Authentication-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge"/>
+
 </p>
 
 ---
