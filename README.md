@@ -109,3 +109,12 @@
 </tr>
 </table>
 </div> 
+---
+
+## 🚀 Key Projects
+
+| **Project** | **Tech Stack** | **Highlights** |
+|:------------|:---------------|:---------------|
+| 🤖 **[CareerVerse – AI Career Guidance Platform](YOUR_GITHUB_LINK)** | React.js • FastAPI • Node.js • MongoDB • Groq AI • JWT | AI Career Guidance • Resume Analysis • Skill Assessment • Secure Login |
+| 💬 **[Real-Time Chat Application](https://github.com/Jyotshna2007/Real-Time-Chat-Application)** | MERN Stack • Socket.IO • JWT | Real-Time Chat • Typing Indicator • Online Presence • Authentication |
+| 🚌 **[Bus Ticket Booking System](YOUR_GITHUB_LINK)** | Java • Swing • JDBC • MySQL | Seat Reservation • Ticket Booking • Cancellation • Admin Panel |
