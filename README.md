@@ -278,3 +278,17 @@
 | React • FastAPI • Node.js | AI Applications • REST APIs | 1100+ LeetCode Problems |
 
 </div>
+
+---
+
+<p align="center">
+
+### 💡 Transforming Ideas into Reliable Software Solutions 💡
+
+*"Passion fuels progress. Consistency builds excellence."* 🚀
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:00C9FF&height=180&section=footer&animation=twinkling"/>
+</p>
