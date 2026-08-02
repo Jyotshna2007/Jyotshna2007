@@ -263,7 +263,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Jyotshna2007/Jyotshna2007/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
