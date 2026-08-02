@@ -58,7 +58,6 @@
 </p>
 
 ---
----
 ## Coding Profiles
 <div align="center">
 <table border="0" cellspacing="15" cellpadding="0">
