@@ -40,6 +40,7 @@
 📍 **Aditya University (2024–2028)**
 
 💼  Full Stack Development Intern @ Technical Hub Private Limited
+
 🚀  Driven by a passion for crafting scalable Full Stack applications, integrating AI into real-world solutions, and transforming complex challenges into elegant, efficient software.
 
 🌱 Currently exploring
@@ -48,7 +49,7 @@
 - System Design
 - Cloud Technologies
 - AI Integrations
-- 
+
 👯 Open to collaborate on
 
 - Full Stack Projects
