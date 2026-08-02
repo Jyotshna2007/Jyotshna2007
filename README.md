@@ -10,25 +10,13 @@
 
 <img src="https://img.shields.io/badge/Open%20To-SDE%20Internships-success?style=for-the-badge"/>
 
-<br><br>
-
-<a href="https://drive.google.com/file/d/1Akgl93SLKYpRVH74MDqNG_PBt-kIRTtU/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/jyotshnakondepudi/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:kondepudijyotshna@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="RESUME_LINK"><img src="https://skillicons.dev/icons?i=pdf" height="45"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="LINKEDIN_LINK"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:kondepudijyotshna@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"></a>
+</p>
 
 ---
 
