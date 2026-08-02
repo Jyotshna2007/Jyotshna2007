@@ -146,15 +146,80 @@
 </table>
 </div> 
 
+# 🚀 Featured Projects
+
+## 🤖 [CareerVerse AI](https://github.com/Jyotshna2007/CareerVerse-AI)
+
+> **AI-Powered Career Guidance Platform**
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square"/>
+
+</p>
+
+### ✨ Highlights
+
+- 🤖 AI-powered personalized career recommendations
+- 📄 Smart resume analysis with skill-gap detection
+- 🎯 Interactive aptitude & career assessment
+- 🏫 Intelligent college discovery with map integration
+- 💬 AI career assistant for real-time guidance
+- 🔒 Secure JWT authentication & role-based access
+
 ---
 
-## 🚀 Key Projects
+## 💬 [Real-Time Chat Application](https://github.com/Jyotshna2007/Real-Time-Chat-Application)
 
-| **Project** | **Tech Stack** | **Highlights** |
-|:------------|:---------------|:---------------|
-| 🤖 **[CareerVerse – AI Career Guidance Platform](https://github.com/Jyotshna2007/CareerVerse-AI)** | React.js • FastAPI • Node.js • MongoDB • Groq AI • JWT | AI Career Guidance • Resume Analysis • Skill Assessment • Secure Login |
-| 💬 **[Real-Time Chat Application](https://github.com/Jyotshna2007/Real-Time-Chat-Application)** | MERN Stack • Socket.IO • JWT | Real-Time Chat • Typing Indicator • Online Presence • Authentication |
-| 🚌 **[Bus Ticket Booking System](https://github.com/Jyotshna2007/Bus-Ticket-Booking-System)** | Java • Swing • JDBC • MySQL | Seat Reservation • Ticket Booking • Cancellation • Admin Panel |
+> **Modern MERN-Based Messaging Platform**
+
+<p>
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio"/>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square"/>
+
+</p>
+
+### ✨ Highlights
+
+- ⚡ Instant real-time messaging with Socket.IO
+- 🟢 Live online/offline user presence
+- ⌨️ Real-time typing indicators
+- 📷 Media & image sharing support
+- 📖 Persistent chat history with MongoDB
+- 🔐 Secure JWT authentication & protected routes
+
+---
+
+## 🚌 [Bus Ticket Booking System](https://github.com/Jyotshna2007/Bus-Ticket-Booking-System)
+
+> **Desktop-Based Reservation & Management System**
+
+<p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=flat-square"/>
+
+</p>
+
+### ✨ Highlights
+
+- 🎫 End-to-end ticket booking workflow
+- 💺 Dynamic seat availability management
+- 👤 Passenger records & booking history
+- ❌ Seamless ticket cancellation process
+- 📊 Administrative dashboard for operations
+- 💾 Robust MySQL database integration
+
 ---
 
 ## 🏆 Achievements
