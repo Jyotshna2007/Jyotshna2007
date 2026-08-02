@@ -108,6 +108,7 @@
 </tr>
 </table>
 </div> 
+
 ---
 
 ## 🚀 Key Projects
@@ -140,7 +141,6 @@
 - 💡 Claude Code in Action
 - 🔗 Introduction to Model Context Protocol (MCP)
 
----
 ---
 
 ## 📊 GitHub Stats
