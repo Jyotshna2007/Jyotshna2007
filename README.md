@@ -143,18 +143,13 @@
 
 ---
 
-## 📊 GitHub Stats & Metrics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jyotshna2007&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Jyotshna2007&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jyotshna2007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=Jyotshna2007&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotshna2007&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyotshna2007&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyotshna2007&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotshna2007&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
