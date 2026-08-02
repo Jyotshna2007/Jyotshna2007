@@ -28,29 +28,28 @@
 
 ---
 
-
 ## 👋 About Me
 
-🎓 **Education Journey**  
-B.Tech in **Computer Science & Engineering** at **Aditya University** *(2024–2028)*
+- 🎓 **Education Journey**  
+  B.Tech in **Computer Science & Engineering**, **Aditya University** *(2024–2028)*
 
-📊 **Academic Excellence**  
-Maintaining a **9.22 CGPA**, with a strong commitment to academic growth and continuous learning.
+- 📊 **Academic Excellence**  
+  Maintaining a **9.22 CGPA** with consistent academic performance and a strong commitment to continuous learning.
 
-💻 **Development Focus**  
-Passionate about building modern, scalable, and user-centric web applications using **Full Stack Development** technologies while strengthening problem-solving skills through Data Structures & Algorithms.
+- 💻 **Development Focus**  
+  Passionate about building modern, scalable, and user-centric web applications while strengthening problem-solving skills through Data Structures & Algorithms.
 
-🧠 **Core Interests**  
-Full Stack Development • Competitive Programming • System Design • Artificial Intelligence
+- 🧠 **Core Interests**  
+  Full Stack Development • Competitive Programming • System Design • Artificial Intelligence
 
-🚀 **Current Mission**  
-Actively expanding my expertise by developing real-world projects, mastering modern development practices, and exploring emerging technologies.
+- 🚀 **Current Mission**  
+  Building real-world projects, exploring modern technologies, and continuously improving software engineering skills.
 
-🤝 **Let's Build Together**  
-Always excited to collaborate on **Open Source**, **Full Stack Projects**, **Hackathons**, and innovative software solutions.
+- 🤝 **Open to Collaboration**  
+  Open Source • Full Stack Projects • Hackathons • Technical Communities
 
-🎯 **Career Vision**  
-Aspiring **Software Development Engineer (SDE)** focused on designing efficient, scalable, and impactful software products.
+- 🎯 **Career Vision**  
+  Aspiring **Software Development Engineer (SDE)** focused on creating efficient, scalable, and impactful software solutions.
 ## 🛠️ Tech Stack
 
 <p align="center">
