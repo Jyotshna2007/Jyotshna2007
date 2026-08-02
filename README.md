@@ -2,35 +2,36 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24,30&text=Hi%20👋%20I'm%20Jyotshna%20Kondepudi&fontSize=42&fontColor=ffffff&animation=fade&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=600&lines=✨+Welcome+to+My+GitHub+Profile+✨"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=650&lines=✨+Welcome+to+My+GitHub+Profile+✨"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Jyotshna2007&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/badge/Open%20to-SDE%20Internships-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-SDE%20Internships-success?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://drive.google.com/file/d/1Akgl93SLKYpRVH74MDqNG_PBt-kIRTtU/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/jyotshnakondepudi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:kondepudijyotshna@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-<p align="center">
+---
 
-<a href="https://drive.google.com/file/d/1Akgl93SLKYpRVH74MDqNG_PBt-kIRTtU/view?usp=sharing">
-<img src="https://skillicons.dev/icons?i=pdf" height="45"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/jyotshnakondepudi/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:kondepudijyotshna@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-</p>
 
 ## 👋 About Me
 
