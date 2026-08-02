@@ -3,9 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24,30&text=Hi%20👋%20I'm%20Jyotshna%20Kondepudi&fontSize=42&fontColor=ffffff&animation=fade&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Jyotshna+Kondepudi;Full+Stack+Developer;AI+Enthusiast;Competitive+Programmer;1000%2B+DSA+Problems+Solved"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=✨+Welcome+to+My+GitHub+Profile+✨;Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 </p>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Jyotshna2007&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
