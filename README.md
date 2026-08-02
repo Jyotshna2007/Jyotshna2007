@@ -81,6 +81,19 @@
 </p>
 
 ---
+## 💼 Experience
+
+### 🚀 Full Stack Development Intern | Technical Hub
+**📍 May 2026 – June 2026**
+
+- 🔹 Engineered scalable backend services and REST APIs to support AI-powered application functionality.
+- 🔹 Developed responsive, reusable frontend components, ensuring a consistent user experience across modules.
+- 🔹 Designed and integrated secure JWT-based authentication and authorization mechanisms.
+- 🔹 Collaborated with developers to implement new features, optimize workflows, and enhance application performance.
+- 🔹 Followed Agile development practices, contributing to sprint planning, code reviews, debugging, and production-ready feature delivery.
+  
+  ---
+  
 ## Coding Profiles
 <div align="center">
 <table border="0" cellspacing="15" cellpadding="0">
