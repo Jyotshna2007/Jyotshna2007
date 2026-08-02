@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24,30&text=Hi%20👋%20I'm%20Jyotshna%20Kondepudi&fontSize=42&fontColor=ffffff&animation=fade&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=650&lines=✨+Welcome+to+My+GitHub+Profile+✨"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Pragnya+Yelisetti;Full+Stack+Developer;AI+Enthusiast;Competitive+Programmer;900%2B+LeetCode+Problems"/>
+</p>
 
 <br><br>
 
