@@ -222,14 +222,15 @@
 
 ---
 
-## 🏆 Achievements
+## 🥇 Coding Achievements
 
-- 🥇 Solved **1000+ DSA problems** across leading competitive programming platforms.
-- 🔥 Earned both the **365 Days Badge** and **500 Days Badge** on **LeetCode**, with a **1700+ Contest Rating**.
-- ⭐ Solved **500+ problems** on **CodeChef** and achieved a **2★ Rating**.
-- 📈 Reached a **1700+ Peak Rating** on **Code360**, demonstrating consistent problem-solving performance.
-- 🚀 Achieved a **900+ Rating** on **Codeforces** through competitive programming contests.
-- 💻 Earned **4★ in Java & SQL** and **3★ in Python, C, and C++** on **HackerRank**.
+- 🏅 Solved **1100+ Algorithmic Problems** on **LeetCode**.
+- 🔥 Earned both the **365 Days Badge** and **500 Days Badge** on **LeetCode**.
+- 📈 Achieved a **1700+ Contest Rating** on **LeetCode**.
+- ⭐ Solved **500+ Problems** and earned a **2★ Rating** on **CodeChef**.
+- 🚀 Reached a **1700+ Peak Rating** on **Code360**.
+- ⚡ Achieved a **900+ Rating** on **Codeforces**.
+- 💎 Earned **4⭐ in Java & SQL** and **3⭐ in Python & C++** on **HackerRank**.
 
 ---
 
