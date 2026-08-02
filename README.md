@@ -26,24 +26,26 @@
 
 </p>
 
+
 ---
+
 ## 👩‍💻 About Me
 
 - 🎓 **Degree:** B.Tech in **Computer Science & Engineering** | **Aditya University** *(2024–2028)*
 
-- 📈 **Academic Standing:** Maintaining a **9.22 CGPA** with a strong focus on continuous learning and technical excellence.
+- 📈 **Academic Standing:** Maintaining a **9.22 CGPA** with consistent academic excellence.
 
-- 💼 **Experience:** **Full Stack Developer Intern** at **Technical Hub Private Limited** *(May 2026 – June 2026)*, where I contributed to developing modern web applications using industry-standard technologies.
+- 💼 **Experience:** **Full Stack Developer Intern** at **Technical Hub Private Limited** *(May 2026 – June 2026)*
 
-- 💻 **Development Focus:** Passionate about building scalable full-stack applications, solving algorithmic problems, and writing clean, efficient code.
+- 💻 **Development Focus:** Building scalable Full Stack applications and solving real-world problems through clean, efficient code.
 
-- 🚀 **Technical Interests:** Full Stack Development, Competitive Programming, System Design, Cloud Computing, and Artificial Intelligence.
+- 🚀 **Technical Interests:** Full Stack Development • Competitive Programming • System Design • Cloud Computing • Artificial Intelligence
 
-- 🌱 **Currently Learning:** Advanced Backend Development, System Design, Cloud Deployment, and AI-powered Web Applications.
+- 🌱 **Currently Learning:** Advanced Backend Development • Cloud Deployment • AI-powered Applications
 
-- 🤝 **Open to Collaboration:** Full Stack Projects, Open Source Contributions, Hackathons, and Innovative Software Solutions.
+- 🤝 **Open to Collaboration:** Full Stack Projects • Open Source • Hackathons
 
-- 🎯 **Career Goal:** Aspiring **Software Development Engineer (SDE)** committed to building impactful, scalable, and user-centric software products.
+- 🎯 **Career Goal:** Aspiring **Software Development Engineer (SDE)** focused on building impactful software.
 ## 🛠️ Tech Stack
 
 <p align="center">
