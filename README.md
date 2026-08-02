@@ -118,3 +118,27 @@
 | 🤖 **[CareerVerse – AI Career Guidance Platform](https://github.com/Jyotshna2007/CareerVerse-AI)** | React.js • FastAPI • Node.js • MongoDB • Groq AI • JWT | AI Career Guidance • Resume Analysis • Skill Assessment • Secure Login |
 | 💬 **[Real-Time Chat Application](https://github.com/Jyotshna2007/Real-Time-Chat-Application)** | MERN Stack • Socket.IO • JWT | Real-Time Chat • Typing Indicator • Online Presence • Authentication |
 | 🚌 **[Bus Ticket Booking System](https://github.com/Jyotshna2007/Bus-Ticket-Booking-System)** | Java • Swing • JDBC • MySQL | Seat Reservation • Ticket Booking • Cancellation • Admin Panel |
+---
+
+## 🏆 Achievements
+
+- 🥇 Solved **1000+ DSA problems** across leading competitive programming platforms.
+- 🔥 Earned both the **365 Days Badge** and **500 Days Badge** on **LeetCode**, with a **1700+ Contest Rating**.
+- ⭐ Solved **500+ problems** on **CodeChef** and achieved a **2★ Rating**.
+- 📈 Reached a **1700+ Peak Rating** on **Code360**, demonstrating consistent problem-solving performance.
+- 🚀 Achieved a **900+ Rating** on **Codeforces** through competitive programming contests.
+- 💻 Earned **4★ in Java & SQL** and **3★ in Python, C, and C++** on **HackerRank**.
+
+---
+
+## 📜 Certifications
+
+- 🟠 Oracle Certified Professional Foundation
+- 📊 Microsoft Excel 2019 Associate
+- ⚡ Microsoft Power Platform Fundamentals
+- 🔗 Introduction to Agent Skills
+- 🤖 Claude with Anthropic API
+- 💡 Claude Code in Action
+- 🔗 Introduction to Model Context Protocol (MCP)
+
+---
