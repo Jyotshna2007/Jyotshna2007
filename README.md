@@ -31,17 +31,27 @@
 
 ## 👋 About Me
 
-🎓 **B.Tech in Computer Science Engineering (2024–2028)** at **Aditya University**
+🎓 **Education Journey**  
+B.Tech in **Computer Science & Engineering** at **Aditya University** *(2024–2028)*
 
-🌐 Passionate about **Full Stack Development, Backend Development, and Competitive Programming**
+📊 **Academic Excellence**  
+Maintaining a **9.22 CGPA**, with a strong commitment to academic growth and continuous learning.
 
-🚀 Currently building **real-world MERN Stack applications** and exploring **FastAPI**
+💻 **Development Focus**  
+Passionate about building modern, scalable, and user-centric web applications using **Full Stack Development** technologies while strengthening problem-solving skills through Data Structures & Algorithms.
 
-🤝 Open to collaborating on **Open Source** and **Full Stack** projects
+🧠 **Core Interests**  
+Full Stack Development • Competitive Programming • System Design • Artificial Intelligence
 
-🎯 Aspiring **Software Development Engineer (SDE)** focused on building scalable software
+🚀 **Current Mission**  
+Actively expanding my expertise by developing real-world projects, mastering modern development practices, and exploring emerging technologies.
 
-## 🛠️ Languages & Tools
+🤝 **Let's Build Together**  
+Always excited to collaborate on **Open Source**, **Full Stack Projects**, **Hackathons**, and innovative software solutions.
+
+🎯 **Career Vision**  
+Aspiring **Software Development Engineer (SDE)** focused on designing efficient, scalable, and impactful software products.
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react&theme=dark" />
