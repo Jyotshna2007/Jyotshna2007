@@ -267,3 +267,14 @@
 </p>
 
 ---
+
+# 📌 Featured Highlights
+
+<div align="center">
+
+| 💻 | 🚀 | 🏆 |
+|:---:|:---:|:---:|
+| **Full Stack Developer** | **AI Enthusiast** | **Competitive Programmer** |
+| React • FastAPI • Node.js | AI Applications • REST APIs | 1100+ LeetCode Problems |
+
+</div>
