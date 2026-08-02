@@ -142,3 +142,30 @@
 - 🔗 Introduction to Model Context Protocol (MCP)
 
 ---
+---
+
+## 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jyotshna2007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jyotshna2007&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotshna2007&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jyotshna2007&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyotshna2007&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jyotshna2007/Jyotshna2007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
