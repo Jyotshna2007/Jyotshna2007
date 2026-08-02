@@ -38,6 +38,7 @@
 
 🎓 **B.Tech in Computer Science & Engineering**  
 📍 **Aditya University (2024–2028)**
+
 💼  Full Stack Development Intern @ Technical Hub Private Limited
 🚀  Driven by a passion for crafting scalable Full Stack applications, integrating AI into real-world solutions, and transforming complex challenges into elegant, efficient software.
 
