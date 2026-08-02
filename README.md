@@ -145,6 +145,8 @@
 </table>
 </div> 
 
+---
+
 # 🚀 Featured Projects
 
 ## 🤖 [CareerVerse AI](https://github.com/Jyotshna2007/CareerVerse-AI)
