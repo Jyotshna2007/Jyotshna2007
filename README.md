@@ -143,13 +143,11 @@
 
 ---
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jyotshna2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
   <img width="49%" src="https://streak-stats.demolab.com?user=Jyotshna2007&theme=tokyonight&hide_border=true" />
 </p>
 
